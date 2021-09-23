@@ -29,7 +29,7 @@ Download the latest launcher from
 - Extract the file if downloaded, skip if you used the clone method.
 - Extract the TLauncher-x.jar to your downloads folder (x = version)
 - Copy the "mc.sh" file and paste it to your "/home/" folder.
-- Open the `mc.sh` file and rename the tlauncher version to the one you have
+- Open the `mc.sh` file using any text editor and rename the tlauncher version to the one you have, save afterwards
 ```
 cd Downloads
 sudo java -jar TLauncher-2.82.jar # rename the "2.82" to the version you've downloaded
