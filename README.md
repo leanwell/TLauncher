@@ -33,7 +33,7 @@ Download the latest launcher from
 - Open the `mc.sh` file and rename the tlauncher version to the one you have
 ```
 cd Downloads
-sudo 
+sudo java -jar TLauncher-2.82.jar # rename the "2.82" to the version you've downloaded
 ```
 - Open terminal and run this command `chmod +x mc.sh`
 Test if it's working `./mc.sh`
