@@ -5,15 +5,15 @@
         DATE RELEASED: 09/23/21
         RELEASED ON:   github
 ####   SOCIALS:
-Github : [Leanwell](https://github.com/leanwell) | 
-Twitter: [@lin_alexson2018]() | 
-Insta  : [@lin.alexson18]() | 
-Youtube: [Leanwell](https://www.youtube.com/channel/UCIn3Tzxmr8JuHAtDsrXDaRg)
-Site   : [leanwell.github.io](https://leanwell.github.io)
+Github: [Leanwell](https://github.com/leanwell) | 
+Twitter: [@lin_alexson2018](https://twitter.com/lin_alexson2018) | 
+Insta: [@lin.alexson18](https://twitter.com/lin_alexson2018) | 
+Youtube: [Leanwell](https://www.youtube.com/channel/UCIn3Tzxmr8JuHAtDsrXDaRg) | 
+Site: [leanwell.github.io](https://leanwell.github.io)
 ####   NOTE:
-        - This bash script was created at 23rd day of September 2021
-        - This script is for personal use only DO NOT DISTRIBUTE!
-        - If there's any issues, feel free to submit it in our github repository
+        - This bash script was created at 23rd day of September 2021.
+        - This script is for personal use only. DO NOT DISTRIBUTE!
+        - If there's any issues, feel free to submit it in our github repository.
 ####   USAGE:
 There is no application that directly launch TLauncher from your Linux machine.
 The default command to launch Tlauncher
