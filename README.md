@@ -27,7 +27,7 @@ Site:
 There is no application that directly launch TLauncher from your Linux machine.
 \
 The default command to launch Tlauncher is
-\
+
 `sudo java -jar TLauncher.jar` as you can see the command is pretty long so I created a very simple and harmless script to run TLauncher on your machine.
 ####   Command:
 ```
@@ -41,7 +41,7 @@ Download the latest launcher from
 - Extract the file if downloaded, skip if you used the clone method.
 - Extract the TLauncher-x.jar from TLauncher.zip to your downloads folder (x = version)
 - Copy the "mc.sh" file and paste it to your "/home/" folder.
-- Open the `mc.sh` file using any text editor and rename the tlauncher version to the one you have, save afterwards
+- Open the `mc.sh` file using any text editor and rename the tlauncher version to the one you have, save afterwards.
 ```
 cd Downloads
 sudo java -jar TLauncher-2.82.jar # rename the "2.82" to the version you've downloaded
@@ -50,7 +50,9 @@ sudo java -jar TLauncher-2.82.jar # rename the "2.82" to the version you've down
 \
 `chmod +x mc.sh` 
 
-- Test if it's working `./mc.sh`
+- Test if it's working
+\
+`./mc.sh`
 
 > Use `./mc.sh` to launch TLauncher directly from your terminal.
 \
