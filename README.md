@@ -26,9 +26,7 @@ Site:
 ####   USAGE:
 There is no application that directly launch TLauncher from your Linux machine.
 \
-The default command to launch Tlauncher is
-
-`sudo java -jar TLauncher.jar` as you can see the command is pretty long so I created a very simple and harmless script to run TLauncher on your machine.
+The default command provided by the developer to launch Tlauncher is `sudo java -jar TLauncher.jar` as you can see the command is pretty long so I created a very simple and harmless script to run TLauncher on your machine.
 ####   Command:
 ```
 cd Downloads
