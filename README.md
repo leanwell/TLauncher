@@ -60,5 +60,5 @@ sudo java -jar TLauncher-2.82.jar # rename the "2.82" to the version you've down
 > No need to use the `cd` command because it is already in the code, just make sure that you are in the default terminal location.
 \
 \
-> Need more help? watch our [youtube](linkhere.com) [video](https://youtu.be/dQw4w9WgXcQ) for detailed tutorial. Enjoy!
+> Need more help? watch our [youtube](https://youtu.be/fg4db60_E40) [video](https://youtu.be/dQw4w9WgXcQ) for detailed tutorial. Enjoy!
 
