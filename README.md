@@ -1,4 +1,4 @@
-# TLauncher Executer
+# TLauncher Executer (updating soon)
 ##                        Welcome to Leanwell's First Project!
 ###   Execute TLauncher for Minecraft on Linux without typing long java codes
 ####   INFO:
@@ -7,9 +7,6 @@
 ####   SOCIALS:
 Github:
 [Leanwell](https://github.com/leanwell)
-\
-Twitter:
-[@lin_alexson2018](https://twitter.com/lin_alexson2018)
 \
 Insta:
 [@lin.alexson18](https://instagram.com/lin.alexson18)
