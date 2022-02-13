@@ -12,7 +12,7 @@ Insta:
 [@lin.alexson18](https://instagram.com/lin.alexson18)
 \
 Youtube:
-[Leanwell](https://www.youtube.com/channel/UCIn3Tzxmr8JuHAtDsrXDaRg)
+[Cheesewise](https://www.youtube.com/channel/UCIn3Tzxmr8JuHAtDsrXDaRg)
 \
 Site:
 [leanwell.github.io](https://leanwell.github.io)
