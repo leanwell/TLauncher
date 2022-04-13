@@ -8,9 +8,6 @@
 Github:
 [Leanwell](https://github.com/leanwell)
 \
-Insta:
-[@lin.alexson18](https://instagram.com/lin.alexson18)
-\
 Youtube:
 [Cheesewise](https://www.youtube.com/channel/UCIn3Tzxmr8JuHAtDsrXDaRg)
 \
@@ -54,7 +51,7 @@ sudo java -jar TLauncher-2.82.jar # rename the "2.82" to the version you've down
 > Use `./mc.sh` to launch TLauncher directly from your terminal.
 \
 \
-> No need to use the `cd` command because it is already in the code, just make sure that you are in the default terminal location.
+> No need to use the `cd` command because it is already in the code, just make sure that you are in the default terminal location (/home/).
 \
 \
 > Need more help? watch our [youtube](https://youtu.be/fg4db60_E40) [video](https://youtu.be/dQw4w9WgXcQ) for detailed tutorial. Enjoy!
