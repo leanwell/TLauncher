@@ -26,7 +26,7 @@ as you can see the command is pretty long so I created a very simple and harmles
 ####   Command:
 ```
 cd Downloads
-sudo java -jar TLauncher-2.82.jar
+sudo java -jar TLauncher-2.86.jar
 ```
 ####   Installation:
 Download or clone the file from my repository.
@@ -38,7 +38,7 @@ Download the latest launcher from
 - Open the `mc.sh` file using any text editor and rename the tlauncher version to the one you have, save afterwards.
 ```
 cd Downloads
-sudo java -jar TLauncher-2.82.jar # rename the "2.82" to the version you've downloaded
+sudo java -jar TLauncher-2.86.jar # rename the "2.86" to the version you've downloaded
 ```
 - Open terminal and run this command:
 \
