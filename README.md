@@ -9,7 +9,7 @@ Github:
 [Leanwell](https://github.com/leanwell)
 \
 Youtube:
-[Cheesewise](https://www.youtube.com/channel/UCIn3Tzxmr8JuHAtDsrXDaRg)
+[MR. LC](https://www.youtube.com/channel/UCIn3Tzxmr8JuHAtDsrXDaRg)
 \
 Site:
 [leanwell.github.io](https://leanwell.github.io)
