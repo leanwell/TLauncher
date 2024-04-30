@@ -9,7 +9,7 @@ Github:
 [Leanwell](https://github.com/leanwell)
 \
 Youtube:
-[MR. LC](https://www.youtube.com/channel/UCIn3Tzxmr8JuHAtDsrXDaRg)
+[Mr. LC](https://www.youtube.com/channel/UCIn3Tzxmr8JuHAtDsrXDaRg)
 \
 Site:
 [leanwell.github.io](https://leanwell.github.io)
